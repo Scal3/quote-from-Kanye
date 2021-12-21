@@ -1,0 +1,9 @@
+.cite-section {
+    border: 5px solid #6B0A0B;
+    max-width: 768px;
+    margin: 0 auto;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

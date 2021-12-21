@@ -2,4 +2,6 @@
     background-color: #000;
     font-family: 'Inter', Verdana, Geneva, Tahoma, sans-serif;
     height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
