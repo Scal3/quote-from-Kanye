@@ -1,4 +1,14 @@
-import api from './api'
+import { getCite } from './api.js'
+import { findNode } from './utils.js'
 
-getCite()
-    .then(res => console.log(res))
+
+const createCite = () => {
+    getCite()
+    .then(res => {
+        const { quote } = res
+        const citeElement = findNode('.cite-section__cite')
+        citeElement.textContent = quote
+    })
+}
+
+createCite()
