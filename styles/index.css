@@ -7,3 +7,5 @@
 @import url(../blocks/main/main.css);
 @import url(../blocks/cite-section/cite-section.css);
 @import url(../blocks/cite-section/__cite/cite-section__cite.css);
+@import url(../blocks/cite-section/__refresh-btn/cite-section__refresh-btn.css);
+@import url(../blocks/cite-section/__refresh-btn-image/cite-section__refresh-btn-image.css);

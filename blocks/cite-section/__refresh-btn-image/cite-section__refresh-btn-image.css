@@ -1,0 +1,4 @@
+.cite-section__refresh-btn-image:hover {
+    transform: rotate(90deg);
+    transition: 300ms;
+}

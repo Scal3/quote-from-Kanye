@@ -1,0 +1,12 @@
+.cite-section__refresh-btn {
+    border-top: none;
+    border-right: 5px solid #6B0A0B;
+    border-bottom: 5px solid #6B0A0B;
+    border-left: 5px solid #6B0A0B;
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    top: 0;
+    right: 10px;
+    cursor: pointer;
+}
