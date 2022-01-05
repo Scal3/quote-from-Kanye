@@ -9,3 +9,6 @@
 @import url(../blocks/cite-section/__cite/cite-section__cite.css);
 @import url(../blocks/cite-section/__refresh-btn/cite-section__refresh-btn.css);
 @import url(../blocks/cite-section/__refresh-btn-image/cite-section__refresh-btn-image.css);
+@import url(../blocks/my-link/my-link.css);
+@import url(../blocks/my-link/__heading/my-link__heading.css);
+@import url(../blocks/my-link/__link/my-link__link.css);
