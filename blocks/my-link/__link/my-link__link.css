@@ -1,0 +1,10 @@
+.my-link__link {
+    font-size: 15px;
+    font-weight: 400;
+    color: #fff;
+    text-decoration: none;
+}
+
+.my-link__link:hover {
+    color: #6B0A0B;
+}
